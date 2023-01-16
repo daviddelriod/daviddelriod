@@ -16,7 +16,7 @@ My expertise lies in identifying business problems and developing AI-based solut
 
 ## Connect with me 🤝:     
 
-<a href="https://www.linkedin.com/in/danielpuenteviejo/">
+<a href="https://www.linkedin.com/in/del-rio-david/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="David Del Río Díaz's LinkedIn Profile" height="35" width="35">
 </a>
 <a href="https://www.instagram.com/david_dlrio/">
