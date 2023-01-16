@@ -34,8 +34,8 @@ My expertise lies in identifying business problems and developing AI-based solut
    
 ## Other stats 📊
 <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=daviddelriod&show_icons=true&locale=en" alt="daviddelriod"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddelriod&" alt="daviddelriod" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daviddelriod&show_icons=true&locale=en&layout=compact" alt="daviddelriod" />
+     # <img src="https://github-readme-stats.vercel.app/api?username=daviddelriod&show_icons=true&locale=en" alt="daviddelriod"/>
+     # <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddelriod&" alt="daviddelriod" />
+     # <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daviddelriod&show_icons=true&locale=en&layout=compact" alt="daviddelriod" />
  </p>
     
