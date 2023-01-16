@@ -19,13 +19,10 @@ My expertise lies in identifying business problems and developing AI-based solut
 <a href="https://www.linkedin.com/in/danielpuenteviejo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Daniel Puente Viejo's LinkedIn Profile" height="35" width="35">
 </a>
-<a href="https://twitter.com/DanielPViejo">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Daniel Puente Viejo's Twitter Profile" height="35" width="35">
-</a>
-<a href="https://www.instagram.com/daaani.pv/">
+<a href="https://www.instagram.com/david_dlrio/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="35" width="35">
 </a>
-<a href="https://www.kaggle.com/danielpuente">
+<a href="https://www.kaggle.com/daviddlrio">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="35" width="35">
 </a>
 
@@ -34,8 +31,8 @@ My expertise lies in identifying business problems and developing AI-based solut
    
 ## Other stats 📊
 <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=DanielPuentee&show_icons=true&locale=en" alt="danielpuentee"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielpuentee&" alt="danielpuentee" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielPuentee&show_icons=true&locale=en&layout=compact" alt="danielpuentee" />
+      <img src="https://github-readme-stats.vercel.app/api?username=daviddelriod&show_icons=true&locale=en" alt="daviddelriod"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddelriod&" alt="daviddelriod" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daviddelriod&show_icons=true&locale=en&layout=compact" alt="daviddelriod" />
  </p>
     
