@@ -4,8 +4,8 @@ I am passionate about Deep Learning and real-time data monitoring ☁️. I cons
 
 My expertise lies in identifying business problems and developing AI-based solutions and advanced analytics for that use case. I have successfully led the development of multiple AI projects and web applications, resulting in improved user experience and increased customer satisfaction.     
 
-<a href="https://linktr.ee/Danielpv">
-    <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<a href="linktr.ee/delriodavid">
+    <img align="right" alt="Coding" width="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1SJDrhRdaSCWsZJmCSRyur&ust=1673955609638000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJC17c6AzPwCFQAAAAAdAAAAABAE"> 
 </a>
  
 ## Updates ⚙️:    
