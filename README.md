@@ -5,7 +5,7 @@ I am passionate about Deep Learning and real-time data monitoring ☁️. I cons
 My expertise lies in identifying business problems and developing AI-based solutions and advanced analytics for that use case. I have successfully led the development of multiple AI projects and web applications, resulting in improved user experience and increased customer satisfaction.     
 
 <a href="linktr.ee/delriodavid">
-    <img align="right" alt="Coding" height="180" width="260" object-fit: contain src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
+    <img align="right" alt="Coding" height="210" width="270" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
 </a>
 
 ## Updates ⚙️:    
@@ -17,13 +17,16 @@ My expertise lies in identifying business problems and developing AI-based solut
 ## Connect with me 🤝:     
 
 <a href="https://www.linkedin.com/in/danielpuenteviejo/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Daniel Puente Viejo's LinkedIn Profile" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="David Del Río Díaz's LinkedIn Profile" height="35" width="35">
 </a>
 <a href="https://www.instagram.com/david_dlrio/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="David Del Río Díaz's Instagram Profile" height="35" width="35">
 </a>
 <a href="https://www.kaggle.com/daviddlrio">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="David Del Río Díaz's Kaggle Profile" height="35" width="35">
+</a>
+<a href="discordapp.com/users/645252839471448075">
+    <img src="https://creamostuvideo.com/wp-content/uploads/2021/05/discord-logo.png" alt="David Del Río Díaz's Discord Profile" height="35" width="35">
 </a>
 
 ## Language and Tools 👨‍💻    
