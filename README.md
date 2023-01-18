@@ -1,8 +1,8 @@
 # Hi👋, I'm David Del Río Díaz !💻    
 
-I am passionate about Deep Learning and real-time data monitoring ☁️. I constantly explore and experiment with the latest techniques in the industry. This has allowed me to stay at the forefront of technology and bring innovative solutions to complex problems. In order to develop my skills to the fullest, I actively seek new opportunities to apply my knowledge to business and scientific problems.      
+I am passionate about the world of Data Analysis, Machine & Deep Learning, as well as the new trends that this industry brings us every day. Currently, I find myself as a intern in NTT Data. Moreover, I am working in my Undergraduate Thesis Project related with Federated Learning applied to Deep Learning. 
 
-My expertise lies in identifying business problems and developing AI-based solutions and advanced analytics for that use case. I have successfully led the development of multiple AI projects and web applications, resulting in improved user experience and increased customer satisfaction.     
+My expertise lies developing AI-based solutions and advanced analytics for that use case. I have successfully carried out the development of multiple AI projects and web applications by means of learning and improving my skills in numerous languages, programms and applications for giving solution to the required tasks.  
 
 <a href="linktr.ee/delriodavid">
     <img align="right" alt="Coding" height="197" width="270" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
@@ -10,8 +10,8 @@ My expertise lies in identifying business problems and developing AI-based solut
 
 ## Updates ⚙️:    
        
-🔭 I’m currently working as a Data Engineer at **[NTT Data](https://es.nttdata.com/)**     
-🌱 I’m currently learning about **Federated Learning and DCGANs**.     
+🔭 I’m currently working as a Data Architec at **[NTT Data](https://es.nttdata.com/)**     
+🌱 I’m currently learning about **Federated Learning,DCGANs and MLOps**.     
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
