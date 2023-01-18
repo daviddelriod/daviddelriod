@@ -1,8 +1,8 @@
 # Hi👋, I'm David Del Río Díaz !💻    
 
-I am passionate about the world of Data Analysis, Machine & Deep Learning, as well as the new trends that this industry brings us every day. Currently, I find myself as a intern in NTT Data. Moreover, I am working in my Undergraduate Thesis Project related with Federated Learning applied to Deep Learning. 
+I am passionate about the world of Data Analysis, Machine & Deep Learning, as well as the new trends that this industry brings us every day 🖥️.  Currently, I find myself as a intern in NTT Data. Moreover, I am working in my Undergraduate Thesis Project related with Federated Learning applied to Deep Learning 🛰️.
 
-My expertise lies developing AI-based solutions and advanced analytics for that use case. I have successfully carried out the development of multiple AI projects and web applications by means of learning and improving my skills in numerous languages, programms and applications for giving solution to the required tasks.  
+My expertise lies developing AI-based solutions and advanced analytics for that use case 📊. I have successfully carried out the development of multiple AI projects and web applications by means of learning and improving my skills in numerous languages, programms and applications for giving solution to the required tasks 💡.  
 
 <a href="linktr.ee/delriodavid">
     <img align="right" alt="Coding" height="197" width="270" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
