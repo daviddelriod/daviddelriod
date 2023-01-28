@@ -10,8 +10,8 @@ My expertise lies developing AI-based solutions and advanced analytics for that 
 
 ## Updates ⚙️:    
        
-🔭 I’m currently working as a Data Architec at **[NTT Data](https://es.nttdata.com/)**     
-🌱 I’m currently learning about **Federated Learning,DCGANs and MLOps**.     
+🔭 I’m currently working as a Data Architect at **[NTT Data](https://es.nttdata.com/)**     
+🌱 I’m currently learning about **Federated Learning, DCGANs and MLOps**.     
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
