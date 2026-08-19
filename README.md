@@ -1,41 +1,57 @@
-# Hi👋, I'm David Del Río Díaz !💻    
+<div align="center">
+  <h1>Hi 👋, I'm David Del Río Díaz</h1>
+  <h3>AI Engineer | GenAI & Cloud Specialist | Sports Analytics ⚽☁️</h3>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white)](https://TU_LINK_AL_PORTFOLIO.com)
+  [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/delriodavid)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+</div>
 
-I am an enthusiast of the Data Analysis, Machine & Deep Learning world, as well as the new trends that this industry brings us every day 🖥️.  Currently, I find myself as a AI Engineer at NTT Data 🛰️.
+---
 
-My expertise lies developing AI-based solutions and advanced analytics for that use case 📊. I have successfully carried out the development of multiple AI projects and web applications by means of learning and improving my skills in numerous languages, programms and applications for giving solution to the required tasks 💡.  
-
-<a href="linktr.ee/delriodavid">
-    <img align="right" alt="Coding" height="197" width="270" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
+<a href="https://TU_LINK_AL_PORTFOLIO.com" target="_blank">
+    <img align="right" alt="AI & Coding GIF" height="220" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1OHBhZWVyb2s2ZzdocHN3dHF3b3RzeTRqZGtzbDZ1eWZudmV4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif">
 </a>
 
-## Updates ⚙️:    
-       
-🔭 I’m currently working as a Data Architect at **[NTT Data](https://es.nttdata.com/)**     
-🌱 I’m currently learning about **Federated Learning, ML Engineering and MLOps**.     
-👯 I’m looking to collaborate on **Data Analysis, Machine Learning and Deep Learning**     
+### 👨‍💻 About Me
 
-## Connect with me 🤝:     
+I am an **AI Engineer** with over 5 years of experience delivering cutting-edge Machine Learning and Generative AI solutions. Currently, I am applying my expertise in data engineering and advanced analytics to elevate elite sports performance at **Athletic Club Bilbao**.
 
-<a href="https://www.linkedin.com/in/del-rio-david/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="David Del Río Díaz's LinkedIn Profile" height="35" width="35">
-</a>
-<a href="https://www.instagram.com/david_dlrio/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="David Del Río Díaz's Instagram Profile" height="35" width="35">
-</a>
-<a href="https://www.kaggle.com/daviddlrio">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="David Del Río Díaz's Kaggle Profile" height="35" width="35">
-</a>
-<a href="discordapp.com/users/645252839471448075">
-    <img src="https://creamostuvideo.com/wp-content/uploads/2021/05/discord-logo.png" alt="David Del Río Díaz's Discord Profile" height="35" width="35">
-</a>
+My passion lies in bridging the gap between prototype and production. I specialize in architecting scalable backend AI tools, managing end-to-end cloud deployments, and building state-of-the-art LLM architectures (like RAG and Text-to-SQL pipelines). Whether it's securely containerizing applications or orchestrating advanced data workflows, I focus on shipping robust, secure, and innovative AI solutions.
 
-## Language and Tools 👨‍💻    
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-   
-## Other stats 📊
-<p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=daviddelriod&show_icons=true&locale=en" alt="daviddelriod"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddelriod&" alt="daviddelriod" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daviddelriod&show_icons=true&locale=en&layout=compact" alt="daviddelriod" />
- </p>
-    
+🏆 **Recent Highlight:** Winner of the *AWS 2025 Financial Services Generative AI Partner Hackathon* using a Multi-Agent solution!
+
+<br>
+
+### 🚀 What I'm doing right now
+
+*   🔭 **Current Role:** Data Professional at **[Athletic Club](https://www.athletic-club.eus/)**, deploying secure, containerized AI backends and engineering GenAI chatbots to interact with complex sports datasets.
+*   🧠 **Core Focus:** Generative AI (LLMs, RAG, LangChain), Cloud Architectures (Azure/AWS), and Multi-Agent Systems.
+*   🎓 **Background:** Master's in **AI Applied to Sports Analytics** & BSc in AI & Data Analytics.
+*   📚 **Teaching:** Former Adjunct Lecturer in AI at Mondragon University, sharing knowledge on cutting-edge AI techniques.
+*   📫 **How to reach me:** Check out my **[Portfolio](https://TU_LINK_AL_PORTFOLIO.com)** or find all my links at [linktr.ee/delriodavid](https://linktr.ee/delriodavid).
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Core AI:** <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-F9AB00?style=flat-square&logoColor=white)
+
+**Generative AI & NLP:** <br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat-square)
+![RAG & Text-to-SQL](https://img.shields.io/badge/RAG_%7C_Text--to--SQL-FF6F00?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-000000?style=flat-square)
+
+**Cloud, Data & DevOps:** <br>
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-316D9A?style=flat-square)
+
+**Certifications:** <br>
+![Microsoft Certifications](https://img.shields.io/badge/Microsoft_Certified-DP--100_%7C_AI--102_%7C_DP--900_%7C_AI--900_%7C_PL--300_-0078D4?style=flat-square&logo=microsoft)
